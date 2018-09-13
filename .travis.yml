@@ -50,3 +50,6 @@ matrix:
 
   allow_failures:
     - rvm: jruby-9.2.0.0
+
+notifications:
+  email: false
